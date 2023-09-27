@@ -11,6 +11,8 @@ please do not hesitate to reach out\!
 [Don’t Wire Your Application More than Once for
 Testing](https://github.com/savoirtech/black-box-system-test)
 
+[Setting up Blogs on Github](https://github.com/savoirtech/github-blog)
+
 # About the Authors
 
 [Arthur Naseef](authors/ArthurNaseef.md)
