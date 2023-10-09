@@ -13,7 +13,7 @@ Testing](https://github.com/savoirtech/black-box-system-test)
 
 [Setting up Blogs on Github](https://github.com/savoirtech/github-blog)
 
-[System Integration Testing - Getting Started Docker MAven Plugin](https://github.com/savoirtech/black-box-system-test-dmp)
+[System Integration Testing - Getting Started Docker Maven Plugin](https://github.com/savoirtech/black-box-system-test-dmp)
 
 # About the Authors
 
