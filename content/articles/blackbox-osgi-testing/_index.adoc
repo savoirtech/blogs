@@ -1,0 +1,12 @@
+---
+title: 'Black box OSGi testing'
+featured: true
+---
+= Black box OSGi testing
+
+Its not a secret that testing of OSGi applications is a never ending story.
+There are multiple tools which address this field, however despite of their maturity, shrinking community leaves multiple shades of gray.
+With recent publications from Arthur about black box testing I will try to explain how this concept might be utilized with modular systems.
+
+== Problem statement
+... TBD
