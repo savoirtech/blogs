@@ -1,3 +1,7 @@
+---
+title: 'Savoirtech blogs'
+featured: true
+---
 = Savoir Technologies Blog
 
 Welcome to the Savoir Technologies Blog.

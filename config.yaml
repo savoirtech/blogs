@@ -1,0 +1,75 @@
+baseURL: "https://blogs.savoirtech.com"
+title: "Savoirtech blogs"
+theme: ["hugo-cloak-email", "hextra"]
+
+enableRobotsTXT: true
+enableGitInfo: true
+
+outputs:
+  home:
+    - html
+    - rss
+  page:
+    - html
+  rss:
+    - rss
+  section:
+    - html
+  taxonomy: []
+  term: []
+
+disableKinds:
+  - taxonomy
+  - term
+
+markup:
+  asciidocExt:
+
+security:
+  exec:
+    allow:
+      - asciidoctor
+
+menu:
+  main:
+    - name: Articles
+      identifier: articles
+      pageRef: articles
+      weight: 10
+    - name: "Contact"
+      identifier: contact
+      pageRef: Contact
+
+Copyright: |
+  Ⓒ Savoirtech inc
+params:
+  description: |
+    ConnectorIO is independent software vendor (ISV) specialized in integration of protocols and data sourced from industrial and building automation systems & devices.
+
+  homepage_meta_tags:
+    meta_og_title: "ConnectorIO"
+    meta_og_type: "website"
+    meta_og_url: "https://connectorio.com"
+    meta_og_image: "https://connectorio.com/wp-content/uploads/connectorio_logo_blue_h50-1.png"
+    meta_twitter_card: "summary"
+    meta_twitter_site: "@connectorio"
+    meta_twitter_creator: "@connectorio"
+
+    meta_og_locale_alternate: ["pl_PL", "zh_CN"]
+
+    meta_robots: "index, follow"
+    meta_googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    meta_bingbot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+
+    meta_twitter_title: "Industrial IoT, Cloud BMS Platform - ConnectorIO: Integrate & Automate"
+    #meta_twitter_description: |
+    #  ConnectorIO is independent software vendor (ISV) specialized in integration of protocols and data sourced from industrial and building automation systems & devices.
+    meta_twitter_image: "/images/posts/ConnectorIO-Measure-Monitor-Analyze-Automate-1536.webp"
+    meta_msapplication-TileImage: "/images/posts/cropped-connectorio-avatar-1400.webp"
+
+permalinks:
+  posts: "/posts/:year:month/:title/"
+  article: ":section-:title"
+  products: "/:sections[1:]-:title/"
+  section: ":section-:title"
+
