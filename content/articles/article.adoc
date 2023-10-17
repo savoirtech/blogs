@@ -14,6 +14,10 @@ And, of course - if you are interested to make use of our expertise, please do n
 
 link:https://github.com/savoirtech/black-box-system-test[Don't Wire Your Application More than Once for Testing]
 
+link:https://github.com/savoirtech/github-blog[Setting up Blogs on Github]
+
+link:https://github.com/savoirtech/black-box-system-test-dmp[System Integration Testing - Getting Started Docker Maven Plugin]
+
 == About the Authors
 
 link:authors/ArthurNaseef.md[Arthur Naseef]

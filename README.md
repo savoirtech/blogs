@@ -1,10 +1,12 @@
+title: 'Savoirtech blogs' featured: true --- = Savoir Technologies Blog
+
 Welcome to the Savoir Technologies Blog.
 
 Please enjoy the articles below, contact us at
 <http://www.savoirtech.com/>, and join the discussion on our articles.
 
 And, of course - if you are interested to make use of our expertise,
-please do not hesitate to reach out\!
+please do not hesitate to reach out!
 
 # Articles
 
@@ -13,7 +15,8 @@ Testing](https://github.com/savoirtech/black-box-system-test)
 
 [Setting up Blogs on Github](https://github.com/savoirtech/github-blog)
 
-[System Integration Testing - Getting Started Docker Maven Plugin](https://github.com/savoirtech/black-box-system-test-dmp)
+[System Integration Testing - Getting Started Docker Maven
+Plugin](https://github.com/savoirtech/black-box-system-test-dmp)
 
 # About the Authors
 
