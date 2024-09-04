@@ -28,3 +28,5 @@ Testing](https://github.com/savoirtech/black-box-system-test)
 # About the Authors
 
 [Arthur Naseef](authors/ArthurNaseef.md)
+
+[Jamie Goodyear](authors/JamieGoodyear.md)
