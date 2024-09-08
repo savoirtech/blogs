@@ -8,6 +8,8 @@ please do not hesitate to reach out\!
 
 # Articles
 
+[Apache CXF JAX-RS Performance Follow Up](https://github.com/savoirtech/apache-cxf-jax-rs-performance-followup)
+
 [Apache Karaf LangChain4J Application Demo](https://github.com/savoirtech/apache-karaf-langchain4j-demo)
 
 [Apache CXF JAX-RS Performance](https://github.com/savoirtech/apache-cxf-jax-rs-performance)
