@@ -6,6 +6,12 @@ Please enjoy the articles below, contact us at
 And, of course - if you are interested to make use of our expertise,
 please do not hesitate to reach out\!
 
+# Lab Reports
+
+[Apache CXF Lab Builds](https://github.com/savoirtech/apache-cxf-report)
+
+[Apache ActiveMQ Lab Builds](https://github.com/savoirtech/apache-activemq-report)
+
 # Articles
 
 [Apache CXF JAX-RS Performance Follow Up](https://github.com/savoirtech/apache-cxf-jax-rs-performance-followup)
