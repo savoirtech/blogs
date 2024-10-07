@@ -16,6 +16,8 @@ please do not hesitate to reach out\!
 
 [Modular Monolith - Modulith Demo](https://github.com/savoirtech/modulith-demo)
 
+[System Integration Testing - Getting Started Test Containers](https://github.com/savoirtech/black-box-system-test-tc)
+
 [Apache Servicemix to Apache Karaf Migration](https://github.com/savoirtech/apache-servicemix-to-apache-karaf-migration)
 
 [Apache CXF JAX-RS Performance Follow Up](https://github.com/savoirtech/apache-cxf-jax-rs-performance-followup)
