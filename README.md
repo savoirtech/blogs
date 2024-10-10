@@ -14,6 +14,8 @@ please do not hesitate to reach out\!
 
 # Articles
 
+[Building a RAG agent for Apache Karaf using LangChain4j and LocalAI](https://github.com/savoirtech/apache-karaf-learning-rag)
+
 [Modular Monolith - Modulith Demo](https://github.com/savoirtech/modulith-demo)
 
 [System Integration Testing - Getting Started Test Containers](https://github.com/savoirtech/black-box-system-test-tc)
