@@ -8,6 +8,8 @@ please do not hesitate to reach out\!
 
 # Lab Reports
 
+[Apache Kafka Lab Builds](https://github.com/savoirtech/apache-kafka-report)
+
 [Apache CXF Lab Builds](https://github.com/savoirtech/apache-cxf-report)
 
 [Apache ActiveMQ Lab Builds](https://github.com/savoirtech/apache-activemq-report)
