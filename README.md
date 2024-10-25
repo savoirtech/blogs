@@ -23,6 +23,8 @@ Our latest video:
 
 # Articles
 
+[SOA RAG Reference Architecture with LangChain4j](https://github.com/savoirtech/soa-rag-reference-architecture)
+
 [Building a RAG agent for Apache Karaf using LangChain4j and LocalAI](https://github.com/savoirtech/apache-karaf-learning-rag)
 
 [Modular Monolith - Modulith Demo](https://github.com/savoirtech/modulith-demo)
