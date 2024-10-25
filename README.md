@@ -6,6 +6,13 @@ Please enjoy the articles below, contact us at
 And, of course - if you are interested to make use of our expertise,
 please do not hesitate to reach out\!
 
+# Youtube Channel
+
+Our latest video:
+
+[![AMQ Essentials](https://img.youtube.com/vi/PtPuR0qcE0c/0.jpg)](https://www.youtube.com/watch?v=PtPuR0qcE0c)
+
+
 # Lab Reports
 
 [Apache Kafka Lab Builds](https://github.com/savoirtech/apache-kafka-report)
