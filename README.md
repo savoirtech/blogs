@@ -10,6 +10,7 @@ please do not hesitate to reach out\!
 
 Our latest video:
 
+[![Kafka Essentials](https://img.youtube.com/vi/d2vbtTqiM_M/0.jpg)](https://www.youtube.com/watch?v=d2vbtTqiM_M)
 [![AMQ Essentials](https://img.youtube.com/vi/PtPuR0qcE0c/0.jpg)](https://www.youtube.com/watch?v=PtPuR0qcE0c)
 
 
