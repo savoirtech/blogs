@@ -10,6 +10,7 @@ please do not hesitate to reach out\!
 
 Our latest video:
 
+[Savoir Technologies Channel](https://www.youtube.com/channel/UCKjw-zeL4DHViYyK_wxdUpQ)
 [![Kafka Essentials](https://img.youtube.com/vi/d2vbtTqiM_M/0.jpg)](https://www.youtube.com/watch?v=d2vbtTqiM_M)
 [![AMQ Essentials](https://img.youtube.com/vi/PtPuR0qcE0c/0.jpg)](https://www.youtube.com/watch?v=PtPuR0qcE0c)
 
@@ -21,6 +22,8 @@ Our latest video:
 [Apache CXF Lab Builds](https://github.com/savoirtech/apache-cxf-report)
 
 [Apache ActiveMQ Lab Builds](https://github.com/savoirtech/apache-activemq-report)
+
+[LangChain4j Lab Builds](https://github.com/savoirtech/langchain4j-report)
 
 # Articles
 
